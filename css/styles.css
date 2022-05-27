@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 7rem;
+}
+
+.hero-image {
+    margin: auto;
+    max-width: 60%;
+    display: block;
+}
+
+.main{
+  margin: 0 10px;
+  padding: 4px;
+}
+
+.main h2 {
+  text-align: center;
+}
+
+.projects {
+  margin: 10px 8px;
+}
+.column {
+  width: 400px;
+  float: left;
+  padding: 50px;
+  margin: 8px 20px;
+}
+
+div.column img {
+  margin: auto;
+  max-width: 100%;
+  display: block;
+  box-shadow: 10px 5px 5px 1px rgba(0, 0, 0, .5);
+}
