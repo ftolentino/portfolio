@@ -20,6 +20,10 @@ _The goal of this website is to build a portfolio landing page using plain HTML 
 * _git clone **repository link**, to your local machine_
 * _open the index.html file in your browser, or run Go Live in VS Code to run the code on your local host._
 
+## Known Bugs
+
+* _The website is not completely responsive yet, will update when further lessons_
+
 ## License
 * MIT
 

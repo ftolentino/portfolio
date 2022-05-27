@@ -12,6 +12,9 @@ h2 {
   font-size: 2rem;
 }
 
+span.contributers {
+  color:crimson;
+}
 .hero-image {
     margin: auto;
     max-width: 60%;
@@ -40,7 +43,7 @@ h2 {
   background-color: lightgrey;
 }
 
-div.main h1 {
+div.projects h1 {
   font-size: 2rem;
 }
 
@@ -58,4 +61,8 @@ div.column img {
 
 div.column p {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a:link {
+  text-decoration: none;
 }
