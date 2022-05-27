@@ -22,7 +22,7 @@ _The goal of this website is to build a portfolio landing page using plain HTML 
 
 ## Known Bugs
 
-* _The website is not completely responsive yet, will update when further lessons_
+* _The website is not completely responsive yet, will update when learning more in future lessons_
 
 ## License
 * MIT

@@ -41,6 +41,10 @@ span.contributers {
   padding: 50px;
   margin: 8px 20px;
   background-color: lightgrey;
+  border-style: solid;
+  border-color: blueviolet;
+  border-width: 4px;
+  border-radius: 1.5%;
 }
 
 div.projects h1 {
