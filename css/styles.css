@@ -21,6 +21,11 @@ span.contributers {
     display: block;
 }
 
+.header {
+  margin: auto;
+  max-width: 100%;
+}
+
 .main{
   margin: 10px 10px;
   padding: 4px;
@@ -28,19 +33,23 @@ span.contributers {
 
 .about{
   margin: auto;
-  width: 50%;
+  max-width: 70%;
   padding: 20px;
+  background-color:lightpink;
+  border-radius: .5%;
 }
 
 div.about h2 {
   text-align: center;
   color:mediumspringgreen;
-  font-weight: 500;
+  font-weight: 900;
   font-size: 3rem;
 }
 
 .projects {
-  margin: 20px 5px;
+  margin: auto;
+  max-width:100%;
+  padding: 20px;
 }
 
 .column {
