@@ -12,9 +12,9 @@
 
 ## Description
 
-_The goal of this website is to build a portfolio landing page using plain HTML and CSS Styling based off what we learned in the first week at Epicodus.
+_The goal of this website is to build a portfolio landing page using plain HTML and CSS Styling based off what we learned in the first week at Epicodus._
 * [Project repository link](https://github.com/ftolentino/portfolio.git)
-* [Deployed on Github Pages](https://ftolentino.github.io/portfolio/)_
+* [Deployed on Github Pages](https://ftolentino.github.io/portfolio/)
 
 ## Setup/Installation Requirements
 
